@@ -1,4 +1,4 @@
-### Bonjour et bienvenue sur mon profil ! 👋
+### Bonjour et bienvenue sur mon profil, je suis [Aakash Sinha!](https://www.linkedin.com/in/julie-anani/) ! 👋
 
 <!--
 **Julie-ANANI/Julie-ANANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <a href="https://www.linkedin.com/in/julie-anani/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
+-->
+</br>
 
 ☀️J’ai décidé de me reconvertir vers le développement web. </br>
 

@@ -61,6 +61,6 @@ Here are some ideas to get you started:
 
 
 
- or give some ♥ sur [mail](mailto:julie.anani@outlook.com) .
+ or give some ♥ on [mail](mailto:julie.anani@outlook.com) .
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Julie-ANANI/Julie-ANANI)

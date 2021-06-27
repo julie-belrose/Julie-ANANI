@@ -1,4 +1,4 @@
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Julie-ANANI/Julie-ANANI.github.io/)  [![Author](https://img.shields.io/badge/Author-Julie%20ANANI%20-blue.svg)](https://www.linkedin.com/in/julie-anani/)  [![Latest Release](https://img.shields.io/badge/Latest%20Release-14%20June%202021-yellow.svg)](https://github.com/Julie-ANANI/Julie-ANANI.github.io/commit/master)
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Julie-ANANI/Julie-ANANI.github.io/)  [![Author](https://img.shields.io/badge/Author-Julie%20ANANI%20-blue.svg)](https://www.linkedin.com/in/julie-anani/)  [![Latest Release](https://img.shields.io/badge/Latest%20Release-26%20June%202021-yellow.svg)](https://github.com/Julie-ANANI/Julie-ANANI.github.io/commit/master)
 
 ### Hello and welcome to my profile, I am [Julie Anani!](https://www.linkedin.com/in/julie-anani/) ! 👋
 
@@ -31,17 +31,10 @@ Here are some ideas to get you started:
 🚀 I’m not backing down from the difficulty and I hope I can help you with one of your projects. </br>
 
 ## GitHub Analytics
-<!--
-![Julie's github stats](https://github-readme-stats.vercel.app/api?username=Julie-ANANI&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Julie's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Julie-ANANI&layout=compact&langs_count=8&hide_border=true)
-<br />
--->
-<p align="left">
-<a href="https://github.com/Julie-ANAN">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Julie-ANANI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <!--
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Julie-ANANI&layout=compact&langs_count=8&theme=algolia"/>\
--->
+
+![Julie's github stats](https://github-readme-stats.vercel.app/api?username=Julie-ANANI&show_icons=true8&theme=algolia)&nbsp;&nbsp;
+![Julie's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Julie-ANANI&layout=compact&langs_count=8&theme=algolia)
+
 </a>
 </p>
 

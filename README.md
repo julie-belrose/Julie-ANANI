@@ -1,7 +1,7 @@
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Julie-ANANI/Julie-ANANI.github.io/)  [![Author](https://img.shields.io/badge/Author-Julie%20ANANI%20-blue.svg)](https://www.linkedin.com/in/julie-anani/)  [![Latest Release](https://img.shields.io/badge/Latest%20Release-26%20June%202021-yellow.svg)](https://github.com/Julie-ANANI/Julie-ANANI.github.io/commit/master)
 
 ### Hello and welcome to my profile, I am [Julie Anani!](https://www.linkedin.com/in/julie-anani/) ! 👋
-
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 <!--
 **Julie-ANANI/Julie-ANANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

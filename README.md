@@ -24,11 +24,13 @@ Here are some ideas to get you started:
 -->
 </br>
 
-☀️ I decided to switch to web development.  </br>
+☀️J’ai décidé de me reconvertir vers le développement web. Après une formation de graphiste et une formation artistique dans le domaine de la vidéo j’ai choisi de me réorienter vers le développement web. C’est ainsi que j’ai suivi il y a peu de temps une formation intensive de 6 mois en spécialisation développeur full stack Javascript et API. 
 
-✅ I have been passionate about this for several months and I trained through the O'Clock school on this profession. </br>
+Lors de mes précédents stages j’ai pu développer un esprit critique ainsi qu’une sensibilité au détail. J’ai amélioré mon esprit d’équipe et amélioré ma maîtrise de la relation client lors de mon expérience d’employée polyvalente. Je suis aussi très attachée à la qualité du travail fourni et je cherche toujours à anticiper les blocages /les failles, ce qui m’amène à fournir un code réfléchi.
 
-🚀 I’m not backing down from the difficulty and I hope I can help you with one of your projects. </br>
+✅ Dotée des compétences et qualités essentielles d’une bonne développeuse web, je suis persuadée que je saurai dûment compléter votre équipe. 
+
+🚀 Je ne recule pas face à la difficulté et j’espère pouvoir vous aider sur l’un de vos projets
 
 ## GitHub Analytics
 

@@ -34,7 +34,6 @@ Lors de mes précédents stages j’ai pu développer un esprit critique ainsi q
 
 ## GitHub Analytics
 
-![Julie's github stats](https://github-readme-stats.vercel.app/api?username=Julie-ANANI&show_icons=true8&theme=algolia)&nbsp;&nbsp;
 ![Julie's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Julie-ANANI&layout=compact&langs_count=8&theme=algolia)
 
 </a>

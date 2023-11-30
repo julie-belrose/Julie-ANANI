@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 </a>
 -->
 </br>
-
 ☀️ Passionnée par le monde du développement web, j'ai amorcé un virage professionnel après des expériences enrichissantes en graphisme et en production vidéo. Cette reconversion m'a menée à une formation intensive de 6 mois en tant que développeuse full stack JavaScript, avec un accent sur les API.
 
 Durant mes stages et expériences antérieures, j'ai cultivé un esprit critique, un sens aigu du détail, et une forte capacité de travail en équipe. Mon expérience en tant qu'employée polyvalente m'a permis de renforcer ma maîtrise de la relation client et d'affiner mon approche orientée qualité, toujours en quête d'anticipation des obstacles pour produire un code réfléchi et efficace.

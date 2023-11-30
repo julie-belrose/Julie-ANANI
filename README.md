@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 -->
 </br>
 
-☀️J’ai décidé de me reconvertir vers le développement web. Après une formation de graphiste et une formation artistique dans le domaine de la vidéo j’ai choisi de me réorienter vers le développement web. C’est ainsi que j’ai suivi il y a peu de temps une formation intensive de 6 mois en spécialisation développeur full stack Javascript et API. 
+☀️ Passionnée par le monde du développement web, j'ai amorcé un virage professionnel après des expériences enrichissantes en graphisme et en production vidéo. Cette reconversion m'a menée à une formation intensive de 6 mois en tant que développeuse full stack JavaScript, avec un accent sur les API.
 
-Lors de mes précédents stages j’ai pu développer un esprit critique ainsi qu’une sensibilité au détail. J’ai amélioré mon esprit d’équipe et amélioré ma maîtrise de la relation client lors de mon expérience d’employée polyvalente. Je suis aussi très attachée à la qualité du travail fourni et je cherche toujours à anticiper les blocages /les failles, ce qui m’amène à fournir un code réfléchi.
+Durant mes stages et expériences antérieures, j'ai cultivé un esprit critique, un sens aigu du détail, et une forte capacité de travail en équipe. Mon expérience en tant qu'employée polyvalente m'a permis de renforcer ma maîtrise de la relation client et d'affiner mon approche orientée qualité, toujours en quête d'anticipation des obstacles pour produire un code réfléchi et efficace.
 
-✅ Dotée des compétences et qualités essentielles d’une bonne développeuse web, je suis persuadée que je saurai dûment compléter votre équipe. 
+✅ Armée de compétences clés en développement web et dotée d'un esprit résolu, je suis convaincue de pouvoir apporter une contribution significative à votre équipe.
 
-🚀 Je ne recule pas face à la difficulté et j’espère pouvoir vous aider sur l’un de vos projets
+🚀 Animée par le défi, je suis prête à relever les défis techniques et à apporter ma pierre à l'édifice sur vos projets. Actuellement, je m'investis également dans l'amélioration de mes compétences linguistiques en anglais.
 
 ## GitHub Analytics
 

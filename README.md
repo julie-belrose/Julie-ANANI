@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 🤝 Durant mes stages et expériences antérieures, j'ai cultivé un esprit critique, un sens aigu du détail, et une forte capacité de travail en équipe. Mon expérience en tant qu'employée polyvalente m'a permis de renforcer ma maîtrise de la relation client et d'affiner mon approche orientée qualité, toujours en quête d'anticipation des obstacles pour produire un code réfléchi et efficace.
 
-✅ Armée de compétences clés en développement web et dotée d'un esprit résolu, je suis convaincue de pouvoir apporter une contribution significative à votre équipe.
+✅ Armée de compétences clés en développement web et dotée d'un esprit tenace, je suis convaincue de pouvoir apporter une contribution significative à votre équipe.
 
-🚀 Animée par le défi, je suis prête à relever les défis techniques et à apporter ma pierre à l'édifice sur vos projets. Actuellement, je m'investis également dans l'amélioration de mes compétences linguistiques en anglais.
+🚀 Animée par le challenge, je suis prête à relever les défis techniques et à apporter ma pierre à l'édifice sur vos projets. Actuellement, je m'investis également dans l'amélioration de mes compétences linguistiques en anglais.
 
 ## GitHub Analytics
 

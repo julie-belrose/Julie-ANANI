@@ -1,6 +1,6 @@
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Julie-ANANI/Julie-ANANI.github.io/)  [![Author](https://img.shields.io/badge/Author-Julie%20ANANI%20-blue.svg)](https://www.linkedin.com/in/julie-anani/) [![wakatime](https://wakatime.com/badge/user/c24f462d-ac0d-4527-9682-3cbc32e2c833.svg)](https://wakatime.com/@c24f462d-ac0d-4527-9682-3cbc32e2c833)
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/julie-belrose/julie-belrose/.github.io/)  [![Author](https://img.shields.io/badge/Author-Julie%20Belrose%20-blue.svg)](https://www.linkedin.com/in/julie-belrose/) [![wakatime](https://wakatime.com/badge/user/c24f462d-ac0d-4527-9682-3cbc32e2c833.svg)](https://wakatime.com/@c24f462d-ac0d-4527-9682-3cbc32e2c833)
 
-### Hello and welcome to my profile, I am [Julie Anani!](https://www.linkedin.com/in/julie-anani/) ! 👋
+### Hello and welcome to my profile, I am [Julie Belrose!](https://www.linkedin.com/in/julie-belrose/) ! 👋
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 <!--
 **Julie-ANANI/Julie-ANANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 
 ## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/julie-anani)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnaniJulie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/julie-belrose)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnaniJulie)
 
 
  or give some ♥ on [mail](mailto:julie.anani@outlook.com) 
